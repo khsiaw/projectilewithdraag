@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-24052019-024939";"";
+"REFERENCE";"BF-82 Resolver";"";
+"TraceParts.PartTitle";"SPECIAL MOTORS BF";"";
+"TraceParts.InstanceId";"90-24052019-0249392N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"SPECIAL MOTORS BF Series";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"MAVILOR MOTORS S.A.";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MAVILOR_1520432710:90-24052019-024939";"";
